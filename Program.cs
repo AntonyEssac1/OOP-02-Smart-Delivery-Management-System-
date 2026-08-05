@@ -11,6 +11,7 @@
             //a) What is the difference between a class and a struct? 
 
             /*
+    
             1- Struct:
                - User-defined data type.
                - Value Type.
