@@ -43,6 +43,28 @@
             3- They are better for complex objects that contain a lot of data and behavior.
             */
             #endregion
+
+            #region // Question 2
+
+            //Question 2
+
+            //Consider the following code:
+
+            //a) Which class is the parent class?
+            //---> Shipment
+            //b) Which class is the child class?
+            //---> ExpressShipment 
+
+            //c) What members are inherited by ExpressShipment?
+            //---> TrackingCode
+
+            //d) Why is inheritance better than duplicating the same code in multiple classes?
+            //---> nheritance is better because it reduces code duplication, improves code reusability,
+            //and makes the application easier to maintain.
+
+
+
+            #endregion
         }
     }
 }
