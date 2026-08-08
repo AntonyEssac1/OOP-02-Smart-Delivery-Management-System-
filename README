@@ -1,0 +1,47 @@
+# Smart Delivery Management System
+
+A simple **C# Console Application** built to practice and demonstrate **Object-Oriented Programming (OOP)** concepts.
+
+## Technologies Used
+
+* C#
+* .NET
+* Console Application
+
+## OOP Concepts Used
+
+* Classes & Structs
+* Encapsulation
+* Inheritance
+* Polymorphism
+* Constructors & Constructor Chaining
+* Properties (Getters & Setters)
+* Method Overriding
+* Indexers
+* Arrays
+* Validation
+* Value Types & Reference Types
+
+## Shipment Types
+
+The system supports three shipment types:
+
+* `StandardShipment`
+* `ExpressShipment`
+* `InternationalShipment`
+
+Each shipment type inherits from the base `Shipment` class and has its own cost calculation when needed.
+
+## Main Features
+
+* Create a delivery center.
+* Add shipments to the delivery center.
+* Search for shipments using tracking codes.
+* Remove shipments using tracking codes.
+* Print all stored shipments.
+* Calculate estimated shipment costs.
+* Handle different shipment types using inheritance and polymorphism.
+
+## Project Purpose
+
+This project was created as an **OOP practice assignment** to strengthen understanding of C# object-oriented programming concepts and their practical implementation.
